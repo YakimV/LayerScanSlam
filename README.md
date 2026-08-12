@@ -14,5 +14,7 @@ A navigation project for a robot running on an ESP32 and a PC. The robot collect
 
 
 
-Uploading Demonstration_of_work.mp4…
+https://github.com/user-attachments/assets/1958ae8b-eecf-4ffc-991f-0d95bcb2bdd7
+
+
 
