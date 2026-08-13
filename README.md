@@ -8,6 +8,11 @@ A navigation project for a robot running on an ESP32 and a PC. The robot collect
 * **`pc/`** — Python software for data processing, SLAM, and the UI.
 
 
+## Components: L9110 driver, ESP32C3 SuperMini, 2D LiDAR, MPU-6050 GY-521, tank chassis
+<img width="1895" height="413" alt="components" src="https://github.com/user-attachments/assets/c189ac16-2a54-40e2-afc2-fa3481ce8024" />
+
+
+
 
 <img width="1280" height="961" alt="image" src="https://github.com/user-attachments/assets/b6e1a7c0-3815-4fc4-acd5-ff7c74e94222" />
 
@@ -15,6 +20,9 @@ A navigation project for a robot running on an ESP32 and a PC. The robot collect
 
 
 https://github.com/user-attachments/assets/674c48ee-87ac-4ef4-a13a-fcdd491e2b80
+
+
+
 
 
 
